@@ -66,7 +66,7 @@ Admin Insights: Access platform-wide stats and charts for informed decisions.
 
 1. Clone the Repo
 
-git clone https://github.com/YOUR_USERNAME/universal-pet-care.git
+git clone https://github.com/arun78787/universal-pet-care.git
 cd universal-pet-care
 
 2. Backend Setup
@@ -181,10 +181,10 @@ npm run lint
 
 Found a bug or have a feature idea? Open an issue or submit a pull request. We welcome all contributions!
 
-Need help? Reach out at arunyadav-codes or on Twitter @arunyadav.
+Need help? Reach out at arun78787-codes or on Twitter @Arun6506yadav.
 
 👋 Author
 
-Arun YadavGitHub – arunyadav-codes
+Arun YadavGitHub – arun78787
 
 "Because every pet deserves the best care, and every owner deserves peace of mind." 🐶🐱
